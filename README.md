@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2056" height="765" alt="Humpty Rat Playlist" src="https://github.com/user-attachments/assets/d0073189-34b7-468e-9a67-74bd01a04d38" />
+  <img width="1919" height="820" alt="황량한 도시의 옥상 쥐" src="https://github.com/user-attachments/assets/346ace8f-4a1e-4058-b8ed-ee288c124f64" />
 </p>
 
 <p align="center">
