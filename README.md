@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1918" height="820" alt="도시 끝의 고독한 쥐" src="https://github.com/user-attachments/assets/f58854c6-c748-4315-893b-99e234089ee2" />
+  <img width="1916" height="821" alt="PlayList" src="https://github.com/user-attachments/assets/cfb123bc-5a41-4f8a-b046-aade29d801d0" />
 </p>
 
 ## Yang Hong-won
