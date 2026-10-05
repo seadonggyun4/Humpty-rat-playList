@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="500" alt="yup" src="https://github.com/user-attachments/assets/d51badf9-8845-4de8-a460-a0172e679bb2" />
+  <img width="500" height="500" alt="Yup" src="https://github.com/user-attachments/assets/88f1a098-a315-44c5-91ee-8603421c65e5" />
 </p>
 
 ## Yang Hong-won
